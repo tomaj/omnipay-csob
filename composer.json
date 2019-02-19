@@ -1,5 +1,5 @@
 {
-  "name": "rootpd/omnipay-csob",
+  "name": "tomaj/omnipay-csob",
   "type": "library",
   "description": "CSOB driver for the Omnipay payment processing library",
   "keywords": [
